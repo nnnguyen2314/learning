@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../React-Redux-Material-UI-starter-template-master/.idea/React-Redux-Material-UI-starter-template-master.iml" filepath="$PROJECT_DIR$/../React-Redux-Material-UI-starter-template-master/.idea/React-Redux-Material-UI-starter-template-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-boilerplate-master/.idea/react-boilerplate-master.iml" filepath="$PROJECT_DIR$/../react-boilerplate-master/.idea/react-boilerplate-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-saas-template-master/.idea/react-saas-template-master.iml" filepath="$PROJECT_DIR$/../react-saas-template-master/.idea/react-saas-template-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-tinder-clone-fun-main.iml" filepath="$PROJECT_DIR$/.idea/react-tinder-clone-fun-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tinder-clone-master/.idea/tinder-clone-master.iml" filepath="$PROJECT_DIR$/../tinder-clone-master/.idea/tinder-clone-master.iml" />
+    </modules>
+  </component>
+</project>
